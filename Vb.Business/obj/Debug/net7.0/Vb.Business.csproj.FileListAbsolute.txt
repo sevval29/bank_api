@@ -1,0 +1,12 @@
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\bin\Debug\net7.0\Vb.Business.deps.json
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\bin\Debug\net7.0\Vb.Business.dll
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\bin\Debug\net7.0\Vb.Business.pdb
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\obj\Debug\net7.0\Vb.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\obj\Debug\net7.0\Vb.Business.AssemblyInfoInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\obj\Debug\net7.0\Vb.Business.AssemblyInfo.cs
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\obj\Debug\net7.0\Vb.Business.csproj.CoreCompileInputs.cache
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\obj\Debug\net7.0\Vb.Business.sourcelink.json
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\obj\Debug\net7.0\Vb.Business.dll
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\obj\Debug\net7.0\refint\Vb.Business.dll
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\obj\Debug\net7.0\Vb.Business.pdb
+C:\Users\sevva\OneDrive\Masaüstü\AkbankBootcamp\VbApi\Vb.Business\obj\Debug\net7.0\ref\Vb.Business.dll
